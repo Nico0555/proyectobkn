@@ -5,6 +5,6 @@ while True:
     3)Multiplicacion
     4)Division
     5)Salir
-    
+    6)
     
     """
